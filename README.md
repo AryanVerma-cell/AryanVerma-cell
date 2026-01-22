@@ -25,3 +25,6 @@
 
 ## 🔥 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanVerma-cell&layout=compact&theme=radical)
+
+## ❤️ Support Me
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://buymeacoffee.com/thearyanvermaji)
