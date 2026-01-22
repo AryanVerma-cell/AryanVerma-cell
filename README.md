@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi 👋, I'm Aryan  
 ### A passionate C / Python Developer from India 🇮🇳
 
@@ -22,7 +21,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanVerma-cell&show_icons=true&theme=radical)
 
 ## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanVerma-cell&layout=compact&theme=radical)
