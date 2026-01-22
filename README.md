@@ -1,5 +1,5 @@
 # Hi 👋, I'm Aryan  
-### A passionate C / Python Developer from India 🇮🇳
+### A passionate C / Python Developer from India
 
 ## 🚀 About Me
 - 🌱 Currently learning DSA in C/C++ & Python
