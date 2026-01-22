@@ -5,7 +5,7 @@
 - 🌱 Currently learning DSA in C/C++ & Python
 - 🤝 Looking to collaborate on Python & AI projects
 - 💬 Ask me about C, Python, Automation, AI tools
-- 📫 How to reach me: yourmail@gmail.com
+- 📫 How to reach me: thearyanvermasup@gmail.com
 - ⚡ Fun fact: I code at night like Batman 🦇
 
 ---
